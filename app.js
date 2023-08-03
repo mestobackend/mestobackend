@@ -32,7 +32,7 @@ app.use(cors({
     'https://mestoproject.nomoredomains.xyz',
     'http://mestoproject.nomoredomains.xyz',
     'http://localhost:3000',
-    'https://mestofrontend.onrender.com',
+    'https://mestofrontend.github.io',
   ],
   methods: ['OPTIONS', 'GET', 'HEAD', 'PUT', 'PATCH', 'POST', 'DELETE'],
   allowedHeaders: ['Content-Type', 'origin', 'Authorization'],
